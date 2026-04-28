@@ -1,0 +1,37 @@
+# ─────────────────────────────────────────────────────────
+# OSINT Wordlist Generator — Sample Profile File
+# Lines starting with # are comments and are ignored.
+# Format: key: value
+# ─────────────────────────────────────────────────────────
+
+# ── Target metadata (informational only) ──────────────────
+target: John Doe — ACME Corp
+
+# ── Basic identity ─────────────────────────────────────────
+name: john
+surname: doe
+username: johndoe
+nickname: johnny
+
+# ── Date of birth (any common format works) ───────────────
+dob: 19900115
+
+# ── Contact info ──────────────────────────────────────────
+email: johndoe@gmail.com
+phone: 0677123456
+
+# ── Relationships ─────────────────────────────────────────
+partner: jane
+child: timmy
+pet: max
+
+# ── Work & location ───────────────────────────────────────
+company: acme
+city: bamenda
+country: cameroon
+
+# ── Personal interests ────────────────────────────────────
+hobby: football
+
+# ── Extra OSINT keywords (comma-separated) ────────────────
+keywords: shadow, ranger, elite, boss2024
